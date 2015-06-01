@@ -2,7 +2,8 @@
 My own curriculum for data scientist
 
 1) Python learning :
-http://www.codecademy.com/tracks/python
+https://class.coursera.org/interactivepython1-003/lecture(video)
+http://www.codecademy.com/tracks/python(self-learn program)
 
 2) Systematically learning - Data Science-Johns Hopkins University
 (https://www.coursera.org/specialization/jhudatascience/1?utm_medium=courseDescripTop)
