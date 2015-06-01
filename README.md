@@ -1,5 +1,6 @@
 # data-analystic
 My own curriculum for data scientist
+
 1) Python learning :
 http://www.codecademy.com/tracks/python
 
