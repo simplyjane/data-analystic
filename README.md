@@ -2,18 +2,18 @@
 My own curriculum for data scientist
 
 1) Python learning :
-https://class.coursera.org/interactivepython1-003/lecture  (video)
+https://class.coursera.org/interactivepython1-003/lecture  (video Madatory)
           
  -str convert to string and 
  
  -"+" is make string close to each other
  
-http://www.codecademy.com/tracks/python  (self-learn program)
+http://www.codecademy.com/tracks/python  (self-learn program, optional)
 
 2) Systematically learning - Data Science-Johns Hopkins University
 (https://www.coursera.org/specialization/jhudatascience/1?utm_medium=courseDescripTop)
 
-The Data Scientist’s Toolbox(https://class.coursera.org/datascitoolbox-015/auth)
+The Data Scientist’s Toolbox(https://class.coursera.org/datascitoolbox-015/auth) Mandatory
 
 R Programming
 
