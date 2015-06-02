@@ -4,7 +4,9 @@ My own curriculum for data scientist
 1) Python learning :
 https://class.coursera.org/interactivepython1-003/lecture  (video)
           
- -str convert to string and + is make string close to each other
+ -str convert to string and 
+ 
+ -"+" is make string close to each other
  
 http://www.codecademy.com/tracks/python  (self-learn program)
 
