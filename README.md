@@ -7,6 +7,15 @@ https://class.coursera.org/interactivepython1-003/lecture  (video Madatory)
  -str convert to string and 
  
  -"+" is make string close to each other
+ - def function_name :(Pay attention to the block distance and clomn)
+      if :
+         return
+      elif:
+         return
+      elif:
+         return
+      else:
+         return 
  
 http://www.codecademy.com/tracks/python  (self-learn program, optional)
 
