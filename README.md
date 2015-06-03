@@ -16,7 +16,9 @@ https://class.coursera.org/interactivepython1-003/lecture  (video Madatory)
          return
       else:
          return 
+
 *****http://webpy.org/(Django lets you write web apps in Django. TurboGears lets you write web apps in TurboGears. Web.py lets you write web apps in Python )
+
 ******http://www.codecademy.com/tracks/python  (self-learn program, optional)
 
 2) Systematically learning - Data Science-Johns Hopkins University
