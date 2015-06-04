@@ -8,29 +8,6 @@ My own curriculum for data scientist
 
 1) Python learning :
 https://class.coursera.org/interactivepython1-003/lecture  (video Madatory)
-          
- -str convert to string and 
- 
- -"+" is make string close to each other
- 
- - def function_name :(Pay attention to the block distance and clomn)
- - 
-      if :
-
-         return
-         
-      elif:
-      
-         return
-         
-      elif:
-      
-         return
-         
-      else:
-      
-         return 
-         
 
 *****http://webpy.org/(Django lets you write web apps in Django. TurboGears lets you write web apps in TurboGears. Web.py lets you write web apps in Python )
 
