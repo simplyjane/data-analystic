@@ -1,4 +1,7 @@
 # data-analystic
+
+Mini project 1:http://www.codeskulptor.org/#user40_vuDFs5e5eZ_0.py(still editing)
+
 My own curriculum for data scientist
 
 1) Python learning :
