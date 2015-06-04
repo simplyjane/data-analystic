@@ -1,6 +1,8 @@
 # data-analystic
 
-Mini project 1:http://www.codeskulptor.org/#user40_vuDFs5e5eZ_2.py(still editing)
+Mini project 1:http://www.codeskulptor.org/#user40_B6XLLyzUAeaGMIf.py
+
+Python's name is derived from the television series Monty Python's Flying Circus, watch this show.
 
 My own curriculum for data scientist
 
